@@ -32,7 +32,7 @@ Game development project -Development of a delivery game in the style of Wolt:bi
 
 ## רכיבים רשמיים
 * קישור לקובץ רכיבי המשחק הרשמיים :
-[formal-elements.md](https://github.com/GameDev-K-G/SchoolMarbleGame-/blob/main/formal-elements.md)
+[formal-elements.md](https://github.com/GameDev-K-G/Wolter/blob/main/formal-elements.md)
  
 
 
