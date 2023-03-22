@@ -1,4 +1,5 @@
-# Wolter![download (1) (2)](https://user-images.githubusercontent.com/73976733/226823322-b0dff4e1-cfc2-4923-b7a6-883b192a2ab2.jpeg)
+# Wolter![download (1) (1) (1)](https://user-images.githubusercontent.com/73976733/226823549-01f4b89a-b09e-4f22-8c56-ac704e0492a2.jpeg)
+
 
 
 Game development project -Development of a delivery game in the style of Wolt:bike:
