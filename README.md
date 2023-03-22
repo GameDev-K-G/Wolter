@@ -13,7 +13,9 @@ Game development project -Development of a delivery game in the style of Wolt:bi
 ## גם לכם משעמם שמחכים לאוכל מוולט? שחקו ותראו מי מגיע עם המשלוח מהר יותר אתם או השליח האמיתי :grin: ##
 
 <p align="center">
-![download (5) (1) (1)](https://user-images.githubusercontent.com/73976733/226822343-26da4a5f-c885-4583-aaa1-cc3edebc45e7.jpeg)
+  
+   ![download (5) (1) (1)](https://user-images.githubusercontent.com/73976733/226822343-26da4a5f-c885-4583-aaa1-cc3edebc45e7.jpeg)
+  
 </p>
 
 ## מהות המשחק
