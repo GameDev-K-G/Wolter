@@ -1,4 +1,5 @@
-# Wolter
+# Wolter![download (1) (1)](https://user-images.githubusercontent.com/73976733/226823186-bf26ca7f-96d4-47eb-8e21-31c3bc30418c.jpeg)
+
 Game development project -Development of a delivery game in the style of Wolt:bike:
 
 <div dir='rtl' lang='he'>
@@ -7,8 +8,7 @@ Game development project -Development of a delivery game in the style of Wolt:bi
   
 
 ## גם לכם משעמם שמחכים לאוכל מוולט? שחקו ותראו מי מגיע עם המשלוח מהר יותר אתם או השליח האמיתי :grin: ##
- 
-    ![download (5) (1) (1)](https://user-images.githubusercontent.com/73976733/226822343-26da4a5f-c885-4583-aaa1-cc3edebc45e7.jpeg)
+![download (5) (1) (1)](https://user-images.githubusercontent.com/73976733/226822343-26da4a5f-c885-4583-aaa1-cc3edebc45e7.jpeg)
 
 
 
