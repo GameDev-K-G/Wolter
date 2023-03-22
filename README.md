@@ -19,7 +19,7 @@ Game development project -Development of a delivery game in the style of Wolt:bi
 </p>
   
   <p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+    <img width="200" src="https://user-images.githubusercontent.com/73976733/226822343-26da4a5f-c885-4583-aaa1-cc3edebc45e7.jpeg" alt="wolt logo">
 </p>
 
 ## מהות המשחק
